@@ -15,11 +15,10 @@ Before running the application, ensure you have the following prerequisites:
 1. **Install Required Packages**:
    You need to install Streamlit and Requests. You can do this via pip:
 
-   ```bash
-   pip install -r requirements.txt
-  ```
-  
-  
+```bash
+pip install -r requirements.txt
+```
+
 ## Running the Application
  
 ### Set up Streamlit Secrets:

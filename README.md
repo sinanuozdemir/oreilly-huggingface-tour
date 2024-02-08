@@ -5,7 +5,7 @@
 ![O'Reilly](images/oreilly.png)
 
 
-This repository contains Jupyter notebooks for the courses ["Hugging Face in 4 Hours"](https://learning.oreilly.com/live-events/hugging-face-in-4-hours/0790145056533/0790145056525/) by Sinan Ozdemir. Published by Pearson, the course covers effective best practices and industry case studies in using Large Language Models (LLMs) from Hugging Face.
+This repository contains Jupyter notebooks for the courses ["Hugging Face in 4 Hours"](https://learning.oreilly.com/live-events/hugging-face-in-4-hours/0790145056533/0790145056525/) by [Sinan Ozdemir](https://sinanozdemir.ai). Published by Pearson, the course covers effective best practices and industry case studies in using Large Language Models (LLMs) from Hugging Face.
 
 Hugging Face is the world’s largest hub for modern AI models and provides access for anyone to use, train, and deploy these models with ease! This course is a gateway to mastering Hugging Face's tools for NLP, offering an inclusive curriculum for non-developers and developers alike to learn the ecosystem. With a spotlight on interactive learning and practical application, attendees will acquire the skills to fine-tune pre-trained models for a variety of NLP tasks and understand how to deploy these models with efficiency.
 

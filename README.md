@@ -32,12 +32,12 @@ This class covers:
 - `BERT vs GPT`: [Fine-tuning BERT for Classification](notebooks/BERT%20vs%20GPT.ipynb)
 
 - `Multimodality with HF.ipynb`: A brief workshop in using some multi-modal models from HF
-[![Open In Colab]([usp=sharing](https://colab.research.google.com/drive/1zYSzDuYFa_cbRlti3scUjfmvradK8Sf4?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zYSzDuYFa_cbRlti3scUjfmvradK8Sf4?usp=sharing)
 
 ---
 
 - **Advanced:** `fine_tuning_llama_2`: A workshop in fine-tuning Llama 2 with instructional data and incorporating further pre-training to update it's knowledge base
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zYSzDuYFa_cbRlti3scUjfmvradK8Sf4?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xKmvmZisN-QoNzm4JXnJ4VEWvp1GfLCq?usp=sharing)
 
 
 ## Streamlit

@@ -36,8 +36,8 @@ This class covers:
 
 ---
 
-- **Advanced:** `fine_tuning_llama_2`: A workshop in fine-tuning Llama 2 with instructional data and incorporating further pre-training to update it's knowledge base
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xKmvmZisN-QoNzm4JXnJ4VEWvp1GfLCq?usp=sharing)
+- **Advanced:** `fine_tuning_llama_3`: A workshop in fine-tuning Llama 3.1 with instructional data and incorporating further pre-training to update it's knowledge base
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sUXME3CcDEqp1eF8j5-z7bdUh2whKvDO?usp=sharing)
 
 
 ## Streamlit

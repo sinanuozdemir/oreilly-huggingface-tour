@@ -34,6 +34,7 @@ This class covers:
 - `Multimodality with HF.ipynb`: A brief workshop in using some multi-modal models from HF
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zYSzDuYFa_cbRlti3scUjfmvradK8Sf4?usp=sharing)
 
+  - For more on Multimodality, check out my [livesession on the topic](https://github.com/sinanuozdemir/oreilly-multimodal-ai)
 ---
 
 - **Advanced:** `fine_tuning_llama_3`: A workshop in fine-tuning Llama 3.1 with instructional data and incorporating further pre-training to update it's knowledge base

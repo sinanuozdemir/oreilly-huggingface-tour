@@ -46,6 +46,13 @@ This class covers:
 - See [this README](streamlit/chat/README.md) for info on how to run our streamlit app
 
 
+## LLM Quantization
+
+- [Quantizing Llama-3 dynamically](https://colab.research.google.com/drive/12RTnrcaXCeAqyGQNbWsrvcqKyOdr0NSm?usp=sharing)
+
+- [Working with GGUF (with a GPU)](https://colab.research.google.com/drive/1D6k-BeuF8YRTR8BGi2YYJrSOAZ6cYX8Y?usp=sharing)
+
+
 ## Further Resources
 
 - [Other Useful Links](https://learning.oreilly.com/playlists/2953f6c7-0e13-49ac-88e2-b951e11388de/)

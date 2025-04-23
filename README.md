@@ -15,6 +15,9 @@ Hugging Face is the world’s largest hub for modern AI models and provides acce
 ### Notebooks
 
 - `Intro to HF.ipynb`: [Introduction to Hugging Face](notebooks/Intro%20to%20HF.ipynb)
+
+	- `More on 3rd party inference` - [Notebook](notebooks/third_party_inference.ipynb)
+
 - `Prototyping with HF.ipynb`: [notebooks/Prototyping with Hugging Face](notebooks/Prototyping%20with%20HF.ipynb)
 
 - `BERT vs GPT`: [notebooks/Fine-tuning BERT for Classification](notebooks/BERT%20vs%20GPT.ipynb)

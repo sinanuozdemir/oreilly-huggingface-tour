@@ -1,6 +1,7 @@
 bertviz==1.4.0
 sentence-transformers==2.2.2
 transformers==4.48.3
+datasets==3.5.0
 torch==2.6.0
 pandas==2.0.3
 evaluate==0.4.1

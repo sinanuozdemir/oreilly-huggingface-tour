@@ -23,7 +23,7 @@ Hugging Face is the world’s largest hub for modern AI models and provides acce
 - `BERT vs GPT`: [notebooks/Fine-tuning BERT for Classification](notebooks/BERT%20vs%20GPT.ipynb)
 
 
-- [`Introduction to SmolAgents`](notebooks/SmolAgents.ipynb)
+- [`Introduction to SmolAgents`](notebooks/SmolAgents.ipynb) - HuggingFaces's AI Agent SDK with built in ReAct and CodeAgent functionality
 
 - `Multimodality with HF.ipynb`: A brief workshop in using some multi-modal models from HF
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zYSzDuYFa_cbRlti3scUjfmvradK8Sf4?usp=sharing)

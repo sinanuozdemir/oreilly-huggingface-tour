@@ -22,6 +22,7 @@ Hugging Face is the world’s largest hub for modern AI models and provides acce
 
 - `BERT vs GPT`: [notebooks/Fine-tuning BERT for Classification](notebooks/BERT%20vs%20GPT.ipynb)
 
+	- **Update: ModernBERT vs DistilBERT:** [Colab Notebook](https://colab.research.google.com/drive/1z2sMZ_A05_VGYqpHBgabvcV0V4INYhQ4?usp=sharing#scrollTo=FqhTGoLo7pLO)
 
 - [`Introduction to SmolAgents`](notebooks/SmolAgents.ipynb) - HuggingFaces's AI Agent SDK with built in ReAct and CodeAgent functionality
 
